@@ -1,0 +1,47 @@
+body {background-image:url(boy.jpg);
+     background-size:COVER;
+      background-attachment:scroll;}
+
+    
+.container {text-decoration-color: rgb(255, 7, 7);
+  width: 1024px;
+   margin-left: auto;
+margin-right: auto;
+background-color: chartreuse;}
+
+header {height:118px; width:  1024px; text-align: center;}
+nav {display:block;
+  background-color: rgb(213, 56, 17);
+   text-align: center;
+   padding-top: 20px; padding-bottom: 14px;
+  height: auto;}
+
+  nav a {color:rgb(71, 255, 29);
+     text-decoration:none; padding-left: 5px; padding-right: 6px;
+     }
+     main {padding: 50px 0px;
+    color:bisque;
+  text-align: center;
+font-size: 40px;}
+
+a {
+  text-decoration: none;
+  color:whitesmoke;}
+
+h1 {font-size: 70px; color:rgb(238, 218, 99)}
+
+p {margin-top: 50px; color:orangered; 
+  padding: 30px 70px;}
+
+section {width: 1000px; height: 500;}
+
+  footer  {margin-top: 20px;
+  background-color: rgb(218, 8, 8);
+color:chartreuse;
+display: block;
+padding-top: 10px; 
+padding-bottom: 10px;
+opacity: 0.6;
+text-align: center;
+font-size: 40px;
+}
